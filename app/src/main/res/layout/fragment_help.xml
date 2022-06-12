@@ -9,6 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Help" />
+        android:padding="20dp"
+        android:text="Help Screen" />
 
 </LinearLayout>

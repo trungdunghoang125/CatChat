@@ -7,11 +7,11 @@
     <fragment
         android:id="@+id/inboxFragment"
         android:name="com.trungdunghoang125.catchat.InboxFragment"
-        android:label="fragment_inbox"
+        android:label="Inbox"
         tools:layout="@layout/fragment_inbox" />
     <fragment
         android:id="@+id/helpFragment"
         android:name="com.trungdunghoang125.catchat.HelpFragment"
-        android:label="fragment_help"
+        android:label="Help"
         tools:layout="@layout/fragment_help" />
 </navigation>

@@ -6,6 +6,8 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
         <entry key="app/src/main/res/layout/fragment_help.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/fragment_inbox.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/fragment_sent_items.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_toolbar.xml" value="0.1" />
       </map>
     </option>
   </component>
